@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Arrête de me chauffer, Nagatoro  - épisode 1 VOSTFR",
+      title: "Arrête de me chauffer, Nagatoro  - épisode 2 VOSTFR",
       description: "Vous regardez",
       image: "https://cdn.statically.io/gh/Anime-Sama/IMG/img/animes/animes%20wallpapers/ijiranaide-nagatorocarousel.jpg",
       sources: [
