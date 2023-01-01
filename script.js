@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m110.syncusercontent.com/mfs-60:e73b7fed5878d47ba1109ac76f5ac03e=============================/p/épisode%202.mp4?allowdd=0&datakey=VXhOnl5BUVAiIEW3Nm171ACExGnsoES6G8yOVtkeTvUcfqMnyOhkYMpjL0sSkq9UwZTHAXm6WLCk4mpzFbG5RwVokWZghtiVPTmYYDQYP2UOo3idSVnZ9cZWGxzheou1Zcbwlk5S5wtFm+10waKadypCRmFh0wwhA0LE6YgiR8MDccsWyUL1N44VGgT+Ci34FyYfeEpk/nxaFpWxf0fIWdUv6CC6zz8MB8aYcLUcmjcXEBELHs4NFMRBJZDwP3R+qT0dGQIeaU+HsHjUZmoFAniCP3CkFhO2w6qLnu4DX1bKiZ2VXh9Cbjzo9x6FzTPZJKG8GrcI7bxzf4XzYTg8kA&engine=ln-2.3.7.3&errurl=A+Kz6A57sGXfOSKpKQImsmhd/LkGcZFTgwHMQbaHy0PDdzzOZdLuCBKSpfJAbQbNcZJLOQmw2HnEweFOiLXFzjuROP9lakY1M8QKBOqs5qD8mli0dv/bBESRNiKHSYKFiUMLJKzt8cNBCSPTCrrd+msNYqcqztO4Ih47PaAMVYID/rriSL1bpQ4DG6urFTBUMo3AdJjL+tohNOZncNu51xH1E1sUuCtC2sxSczNo7bmufBYzm6dtUCrfworK3Pnivdy9YyTfivSydDLUXQoKsafPff5b+n8kgPa7vx4+JHdwyWpqiAT+ezq+IFF8S4V9ZzNTfJ78zhl985Goe7cRZw==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iJUMzJUE5cGlzb2RlJTIwMi5tcDQiO2ZpbGVuYW1lKj1VVEYtOCcnJUMzJUE5cGlzb2RlJTIwMi5tcDQ7&ipaddress=1458994159&linkcachekey=c6ab57c90&linkoid=1982860011&mode=101&sharelink_id=9628443630011&timestamp=1672607276184&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=2ba52b666270ec83ccac17dc471a1ad7a0bdc7e0&cachekey=60:e73b7fed5878d47ba1109ac76f5ac03e=============================",
           label: "720p"
         },
         {
